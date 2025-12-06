@@ -1,4 +1,3 @@
-# app_gradio.py
 import json
 import io
 from pathlib import Path
@@ -10,8 +9,6 @@ from PIL import Image
 from torchvision import transforms
 import gradio as gr
 
-# ================== ĐƯỜNG DẪN PROJECT ==================
-# scripts/
 ROOT_DIR = Path(__file__).resolve().parents[1]
 META_DIR = ROOT_DIR / "meta"
 
@@ -23,7 +20,6 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 MODEL_NAME = "dinov2_vits14"
 
 
-# ================== LOAD MODEL & TRANSFORM =============
 def load_model_and_transform():
     print("[INFO] Using device:", DEVICE)
     print("[INFO] Loading DINOv2 model for Gradio...", MODEL_NAME)
@@ -58,7 +54,6 @@ def encode_image(img: Image.Image, model, transform) -> np.ndarray:
     return feats  # (D,)
 
 
-# ================== LOAD GALLERY & CATALOG =============
 def load_gallery_and_catalog():
     print("[INFO] Loading gallery features...")
     gallery_feats = np.load(FEATS_PATH)
@@ -84,7 +79,6 @@ def load_gallery_and_catalog():
     return gallery_feats, gallery_ids, id2meta
 
 
-# ================== HÀM XỬ LÝ CHÍNH ====================
 def format_top1_info(meta: Dict[str, Any], score: float) -> str:
     """Trả về chuỗi markdown mô tả chi tiết cho kết quả tốt nhất."""
     lines = []
@@ -144,7 +138,6 @@ def predict(
     if img is None:
         return "Vui lòng upload một bức ảnh danh lam thắng cảnh.", None
 
-    # Encode query
     q = encode_image(img, model, transform)  # (D,)
     sims = gallery_feats @ q  # (N,)
     idxs = np.argsort(-sims)[:top_k]
@@ -164,7 +157,6 @@ def predict(
             }
         )
 
-    # Lấy best result cho phần mô tả chi tiết
     best_idx = idxs[0]
     best_id = gallery_ids[best_idx]
     best_score = float(sims[best_idx])
@@ -174,9 +166,7 @@ def predict(
     return detail_markdown, results_table
 
 
-# ================== MAIN (GRADIO) ======================
 if __name__ == "__main__":
-    # Load model & data một lần
     model, transform = load_model_and_transform()
     gallery_feats, gallery_ids, id2meta = load_gallery_and_catalog()
 
@@ -215,7 +205,6 @@ if __name__ == "__main__":
             "Upload một bức ảnh danh lam thắng cảnh Việt Nam, hệ thống sẽ truy hồi "
             "Top-K địa danh giống nhất bằng DINOv2 + cosine similarity."
         ),
-        # Gradio v4 dùng flagging_mode, không dùng allow_flagging nữa
         flagging_mode="never",
     )
 

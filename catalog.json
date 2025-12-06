@@ -1,0 +1,667 @@
+[
+  {
+    "id": "ban_dao_son_tra",
+    "name_vi": "Bán đảo Sơn Trà",
+    "name_en": "Son Tra Peninsula",
+    "short_intro": "Được mệnh danh là 'viên ngọc quý' của Đà Nẵng, Sơn Trà là khu rừng già nguyên sinh duy nhất ở Việt Nam nằm ngay trong lòng thành phố, sở hữu 3 mặt giáp biển và hệ sinh thái đa dạng.",
+    "fun_facts": [
+      "Trong chiến tranh Việt Nam, lính Mỹ đã đặt tên cho nơi này là 'Monkey Mountain' (Núi Khỉ) do nhìn thấy rất nhiều khỉ sinh sống tại đây, ngày nay đây là vương quốc của loài Voọc chà vá chân nâu.",
+      "Hệ thực vật ở đây có sự phân tầng rõ rệt: cây bụi ở chân núi, rừng nhiệt đới ở sườn núi và rừng lá kim cận ôn đới ở trên đỉnh, tạo nên khí hậu mát lạnh quanh năm.",
+      "Cây Đa ngàn năm tuổi tại đây có bộ rễ phụ khổng lồ bám sâu vào lòng đất, được xem là một trong những cây đa cổ thụ hùng vĩ nhất Đông Nam Á."
+    ],
+    "story": "Truyền thuyết kể rằng, xưa kia các vị tiên thường cưỡi mây xuống đỉnh núi này để đánh cờ. Một hôm, có vị tiên mải ngắm nhìn các tiên nữ tắm dưới bãi biển (nay là bãi Tiên Sa) nên đã đi nhầm nước cờ và thua cuộc. Tức giận, ông đá bàn cờ xuống biển rồi bay về trời. Từ đó, đỉnh núi có tên là Đỉnh Bàn Cờ, và bãi biển dưới chân núi có tên là Tiên Sa.",
+    "highlights": [
+      "Chùa Linh Ứng",
+      "Đỉnh Bàn Cờ",
+      "Cây Đa ngàn năm"
+    ],
+    "location": "Quận Sơn Trà, TP. Đà Nẵng",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Bán_đảo_Sơn_Trà"
+  },
+  {
+    "id": "bao_quoc_pagoda_hue",
+    "name_vi": "Chùa Báo Quốc",
+    "name_en": "Bao Quoc Pagoda",
+    "short_intro": "Một ngôi cổ tự thanh tịnh nằm trên đồi Hàm Long, hướng mặt ra sông Hương. Chùa không chỉ là chốn tâm linh mà còn là cái nôi đào tạo tăng tài lỗi lạc bậc nhất của Phật giáo xứ Huế.",
+    "fun_facts": [
+      "Ngôi chùa này gắn liền với giếng nước thiêng 'Hàm Long' sâu khoảng 5-6m, nước trong vắt quanh năm, tương truyền xưa kia nước giếng này chuyên dùng để dâng lên cho Vua chúa dùng.",
+      "Vào thập niên 1930, phong trào chấn hưng Phật giáo diễn ra mạnh mẽ tại đây, biến chùa thành trung tâm in ấn, phát hành kinh sách và đào tạo hàng trăm vị cao tăng cho Việt Nam.",
+      "Tên gọi 'Báo Quốc' do vua Lê Dụ Tông ban tặng vào năm 1747, mang ý nghĩa to lớn là 'Đền ơn đất nước', khẳng định vị thế của chùa đối với triều đình thời bấy giờ."
+    ],
+    "story": "Chuyện kể rằng khi Thiền sư Giác Phong khai sơn lập chùa vào thế kỷ 17, ông đã đào một cái giếng dưới chân đồi để lấy nước sinh hoạt. Khi đào xuống, ông bất ngờ thấy mạch nước phun ra từ một tảng đá có hình đầu rồng. Cho rằng đây là long mạch linh thiêng, ông đặt tên giếng là Hàm Long (miệng rồng) và đồi là đồi Hàm Long.",
+    "highlights": [
+      "Giếng thiêng Hàm Long",
+      "Mộ tháp Tổ sư Giác Phong",
+      "Không gian thiền tịnh"
+    ],
+    "location": "TP. Huế, Tỉnh Thừa Thiên Huế",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Chùa_Báo_Quốc_(Huế)"
+  },
+  {
+    "id": "ben_nha_rong",
+    "name_vi": "Bến Nhà Rồng",
+    "name_en": "Nha Rong Wharf (Ho Chi Minh Museum)",
+    "short_intro": "Nơi người thanh niên Nguyễn Tất Thành đã xuống con tàu Amiral Latouche Tréville năm 1911 để ra đi tìm đường cứu nước. Tòa nhà mang kiến trúc phương Tây nhưng lại được trang trí bằng các họa tiết rồng phương Đông.",
+    "fun_facts": [
+      "Ban đầu, đây là trụ sở của Hãng vận tải biển Messageries Maritimes (Pháp), được xây dựng từ năm 1863, là một trong những công trình kiên cố đầu tiên tại Sài Gòn.",
+      "Sở dĩ dân gian gọi là 'Nhà Rồng' vì trên nóc tòa nhà có gắn đôi rồng gốm tráng men xanh rất lớn theo kiểu 'lưỡng long chầu nguyệt', nhưng thay vì chầu mặt trăng thì lại chầu mỏ neo (biểu tượng hàng hải).",
+      "Hiện nay, bảo tàng lưu giữ hơn 11.000 tư liệu và hiện vật về cuộc đời chủ tịch Hồ Chí Minh, trong đó có cả những viên gạch hồng - kỷ vật gợi nhớ thời gian Bác làm việc tại khách sạn Omni Parker House (Mỹ)."
+    ],
+    "story": "Vào ngày 5/6/1911, chàng thanh niên Nguyễn Văn Ba (tên của Bác Hồ lúc đó) đã xin làm phụ bếp trên tàu buôn của Pháp. Bến cảng này chính là nơi chứng kiến bước chân đầu tiên của Bác trong hành trình 30 năm bôn ba khắp năm châu để tìm ra con đường giải phóng cho dân tộc Việt Nam.",
+    "highlights": [
+      "Kiến trúc 'Lưỡng long chầu nguyệt'",
+      "Các kỷ vật của Bác Hồ",
+      "Tầm nhìn ra sông Sài Gòn"
+    ],
+    "location": "Quận 4, TP. Hồ Chí Minh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Bến_Nhà_Rồng"
+  },
+  {
+    "id": "buu_dien_trung_tam_sai_gon",
+    "name_vi": "Bưu điện Trung tâm Sài Gòn",
+    "name_en": "Saigon Central Post Office",
+    "short_intro": "Tuyệt tác kiến trúc kết hợp giữa phong cách Phục hưng và Gothic, nổi bật với màu vàng rực rỡ. Đây là bưu điện lớn nhất Việt Nam vẫn đang hoạt động nhộn nhịp sau hơn một thế kỷ.",
+    "fun_facts": [
+      "Rất nhiều du khách lầm tưởng công trình này do Gustave Eiffel thiết kế, nhưng thực tế kiến trúc sư trưởng là Marie-Alfred Foulhoux (mặc dù Eiffel có ảnh hưởng đến kết cấu thép).",
+      "Trên tường nội thất của bưu điện có vẽ hai tấm bản đồ lịch sử khổng lồ vô cùng tỉ mỉ: 'Saigon et ses environs 1892' (Sài Gòn và vùng phụ cận) và 'Lignes télégraphiques du Sud Vietnam et du Cambodge 1936' (Đường dây điện tín Nam Việt Nam và Campuchia).",
+      "Hệ thống mái vòm thép đồ sộ bên trong được thiết kế cong theo hình thùng, giúp không gian trở nên thoáng đãng và mát mẻ tự nhiên mà không cần máy lạnh công suất lớn."
+    ],
+    "story": "Nơi này từng gắn liền với hình ảnh cụ Dương Văn Ngộ (người viết thư thuê cuối cùng của Sài Gòn). Cụ đã ngồi ở góc bàn gỗ trong bưu điện suốt hàng chục năm, thông thạo tiếng Pháp và tiếng Anh, cần mẫn viết và dịch hàng nghìn bức thư tay kết nối tình cảm cho người dân, trở thành một 'biểu tượng sống' của Bưu điện.",
+    "highlights": [
+      "Mái vòm khung thép lớn",
+      "Hai bản đồ cổ vẽ tay",
+      "Các bốt điện thoại gỗ xưa"
+    ],
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Bưu_điện_Trung_tâm_Sài_Gòn"
+  },
+  {
+    "id": "co_do_hoa_lu",
+    "name_vi": "Cố đô Hoa Lư",
+    "name_en": "Hoa Lu Ancient Capital",
+    "short_intro": "Kinh đô đầu tiên của nhà nước phong kiến tập quyền Việt Nam, tồn tại 42 năm qua ba triều đại Đinh - Tiền Lê - Lý. Nơi đây là minh chứng cho tư duy quân sự tài tình: dùng núi non làm thành lũy.",
+    "fun_facts": [
+      "Không cần xây quá nhiều tường thành nhân tạo, vua Đinh Tiên Hoàng đã tận dụng triệt để các dãy núi đá vôi dựng đứng và các dòng sông bao quanh để tạo thành một pháo đài tự nhiên bất khả xâm phạm.",
+      "Khu di tích hiện nay vẫn còn lưu giữ dấu tích nền móng cung điện xưa nằm sâu dưới lòng đất, gạch ngói thời đó thường được in chữ 'Đại Việt quốc quân thành chuyên' (Gạch xây thành nước Đại Việt).",
+      "Lễ hội Trường Yên (Lễ hội Cố đô Hoa Lư) được tổ chức vào tháng 3 âm lịch hàng năm là một trong những lễ hội lớn nhất miền Bắc, tái hiện hào khí cờ lau tập trận."
+    ],
+    "story": "Nơi này gắn liền với tuổi thơ của Đinh Bộ Lĩnh. Tương truyền thuở nhỏ đi chăn trâu, cậu bé Đinh Bộ Lĩnh thường rủ bạn bè bẻ bông lau làm cờ, khoanh tay làm kiệu để tập trận giả. Trò chơi trẻ con ấy đã nuôi dưỡng chí lớn của một vị Vạn Thắng Vương sau này dẹp loạn 12 sứ quân, thống nhất giang sơn.",
+    "highlights": [
+      "Đền Vua Đinh Tiên Hoàng",
+      "Đền Vua Lê Đại Hành",
+      "Núi Mã Yên (Mộ vua Đinh)"
+    ],
+    "location": "Huyện Hoa Lư, Tỉnh Ninh Bình",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Cố_đô_Hoa_Lư"
+  },
+  {
+    "id": "co_do_hue",
+    "name_vi": "Quần thể Di tích Cố đô Huế",
+    "name_en": "Complex of Hue Monuments",
+    "short_intro": "Di sản Văn hóa Thế giới với hệ thống kinh thành, cung điện và lăng tẩm uy nghiêm, tráng lệ. Đây là trung tâm chính trị, văn hóa và tôn giáo của Việt Nam dưới triều Nguyễn suốt 143 năm.",
+    "fun_facts": [
+      "Kinh thành Huế là một ví dụ điển hình về kiến trúc phòng thủ Vauban kết hợp với nguyên tắc địa lý phong thủy phương Đông (Tả Thanh Long - Hữu Bạch Hổ) vô cùng chặt chẽ.",
+      "Ngọ Môn (cổng chính phía Nam) có 5 lối đi: Lối chính giữa chỉ dành cho Vua, hai lối bên cạnh cho quan văn võ, và hai lối ngoài cùng cho binh lính, voi ngựa.",
+      "Hệ thống hào nước bao quanh kinh thành (Hộ Thành Hào) dài hơn 10km, vừa có tác dụng phòng thủ, vừa giúp điều hòa không khí cho cả khu vực rộng lớn."
+    ],
+    "story": "Việc xây dựng Kinh thành Huế là một kỳ tích nhưng cũng đầy gian khổ. Vua Gia Long đã phải huy động hàng vạn dân phu, binh lính làm việc ròng rã suốt 30 năm (1805-1832). Tương truyền, để chọn vị trí đóng đô, các thầy phong thủy đã phải tìm được nơi có 'Sông Hương làm Minh Đường, núi Ngự Bình làm Tiền Án' để đảm bảo vượng khí muôn đời.",
+    "highlights": [
+      "Ngọ Môn",
+      "Điện Thái Hòa",
+      "Tử Cấm Thành"
+    ],
+    "location": "TP. Huế, Tỉnh Thừa Thiên Huế",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Quần_thể_di_tích_Cố_đô_Huế"
+  },
+  {
+    "id": "cu_lao_cham",
+    "name_vi": "Cù Lao Chàm",
+    "name_en": "Cu Lao Cham Islands",
+    "short_intro": "Cụm đảo hoang sơ gồm 8 hòn đảo nhỏ, được UNESCO công nhận là Khu dự trữ sinh quyển thế giới. Nơi đây nổi tiếng với nước biển xanh ngọc, rạn san hô rực rỡ và cuộc sống bình yên của ngư dân.",
+    "fun_facts": [
+      "Cù Lao Chàm là địa phương tiên phong tại Việt Nam thực hiện chiến dịch 'Nói không với túi nilon'. Du khách sẽ bị kiểm tra và yêu cầu để lại túi nilon trước khi lên cano ra đảo.",
+      "Đặc sản trứ danh ở đây là 'Cua Đá' - loài cua chỉ sống trên các hang đá núi cao, ăn lá cây rừng và uống nước sương sớm nên thịt có mùi thơm thảo dược rất lạ.",
+      "Hệ san hô ở đây cực kỳ phong phú với hơn 300 loài, du khách chỉ cần úp mặt xuống nước (snorkeling) ở độ sâu rất cạn là đã có thể chiêm ngưỡng."
+    ],
+    "story": "Trên đảo có Giếng cổ Chăm hơn 200 năm tuổi chưa bao giờ cạn nước, kể cả trong mùa hạn hán khốc liệt nhất. Người dân rỉ tai nhau truyền thuyết rằng: ai bị say sóng, uống nước giếng sẽ hết; và đặc biệt những người độc thân uống nước giếng này xong thì tình duyên sẽ sớm đến.",
+    "highlights": [
+      "Lặn ngắm san hô (Hòn Dài)",
+      "Giếng cổ Chăm",
+      "Chùa Hải Tạng"
+    ],
+    "location": "TP. Hội An, Tỉnh Quảng Nam",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Cù_Lao_Chàm"
+  },
+  {
+    "id": "cho_ben_thanh",
+    "name_vi": "Chợ Bến Thành",
+    "name_en": "Ben Thanh Market",
+    "short_intro": "Ngôi chợ biểu tượng của Sài Gòn với lịch sử hơn 100 năm, nổi bật với tháp đồng hồ ở cửa Nam. Đây không chỉ là nơi buôn bán mà còn là điểm giao thoa văn hóa, ẩm thực hấp dẫn du khách.",
+    "fun_facts": [
+      "Thiết kế của chợ rất khoa học với hệ thống cửa thông gió (các khuôn gió) chạy dọc trên tường và mái, giúp không khí đối lưu liên tục, làm cho bên trong chợ luôn mát mẻ dù bên ngoài nắng nóng.",
+      "Tháp đồng hồ ở cửa Nam (cửa chính) là hình ảnh được in trên rất nhiều tem thư và bưu thiếp của Việt Nam qua các thời kỳ.",
+      "Chợ có 4 cửa chính: Cửa Nam bán vải vóc, thực phẩm khô; Cửa Bắc bán hoa tươi, trái cây; Cửa Đông bán mỹ phẩm, bánh kẹo; Cửa Tây bán giày dép, hàng mỹ nghệ."
+    ],
+    "story": "Tên gọi 'Bến Thành' xuất phát từ lịch sử xa xưa: Ban đầu chợ nằm bên bờ sông Bến Nghé, ngay cạnh bến nước của thành Gia Định (thành Quy). Vì chợ nằm ở 'Bến' trước 'Thành' nên dân gian gọi ghép là chợ Bến Thành. Dù sau này chợ đã dời vị trí và xây mới, cái tên ấy vẫn được giữ nguyên.",
+    "highlights": [
+      "Tháp đồng hồ Cửa Nam",
+      "Khu ẩm thực đường phố",
+      "Chợ đêm (bên hông chợ)"
+    ],
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Chợ_Bến_Thành"
+  },
+  {
+    "id": "chua_ba_thien_hau_binh_duong",
+    "name_vi": "Chùa Bà Thiên Hậu (Bình Dương)",
+    "name_en": "Thien Hau Pagoda (Binh Duong)",
+    "short_intro": "Ngôi miếu thờ Thiên Hậu Thánh Mẫu linh thiêng bậc nhất vùng Đông Nam Bộ. Đây là trung tâm sinh hoạt văn hóa tín ngưỡng quan trọng của cộng đồng người Hoa và người Việt tại Bình Dương.",
+    "fun_facts": [
+      "Lễ hội Rước kiệu Bà vào rằm tháng Giêng là lễ hội lớn nhất tỉnh Bình Dương, thu hút hàng trăm nghìn người. Đặc biệt, lễ hội này nổi tiếng với việc phát đồ ăn, nước uống, sửa xe hoàn toàn miễn phí cho khách thập phương.",
+      "Tục 'Thỉnh Lộc Thánh' (đấu giá lồng đèn) tại đây rất sôi động, người ta tin rằng ai đấu giá được chiếc lồng đèn của Bà sẽ gặp may mắn, phát tài cả năm, nên giá trị đấu giá có thể lên tới hàng tỷ đồng.",
+      "Chùa không có sư trụ trì như các chùa Phật giáo khác, mà do Ban quản trị (thường là người gốc Hoa) trông coi và điều hành các nghi lễ."
+    ],
+    "story": "Chùa thờ Thiên Hậu Thánh Mẫu (Lâm Mặc Nương) - một người con gái vùng Phúc Kiến (Trung Quốc) có khả năng dự báo thời tiết và cứu giúp ngư dân gặp nạn trên biển. Truyền thuyết kể rằng bà thường hiển linh cầm đèn lồng đỏ soi sáng dẫn đường cho thuyền bè qua cơn bão tố, nên được tôn xưng là vị thần bảo trợ của người đi biển.",
+    "highlights": [
+      "Lễ hội Rước kiệu Bà (Rằm tháng Giêng)",
+      "Kiến trúc Tam quan cách điệu",
+      "Tục thỉnh lộc thánh"
+    ],
+    "location": "TP. Thủ Dầu Một, Tỉnh Bình Dương",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Chùa_Bà_Thiên_Hậu_(Bình_Dương)"
+  },
+  {
+    "id": "chua_mot_cot_ha_noi",
+    "name_vi": "Chùa Một Cột",
+    "name_en": "One Pillar Pagoda",
+    "short_intro": "Biểu tượng văn hóa tâm linh độc đáo của Hà Nội với kiến trúc tựa như một đóa sen nghìn cánh vươn lên từ mặt nước. Ngôi chùa nhỏ bé này mang trong mình giá trị lịch sử và thẩm mỹ to lớn.",
+    "fun_facts": [
+      "Vào năm 1954, trước khi rút khỏi Hà Nội, quân đội Pháp đã dùng thuốc nổ phá hủy ngôi chùa. Chùa Một Cột hiện nay là phiên bản được phục dựng lại nguyên mẫu vào năm 1955.",
+      "Tổ chức Kỷ lục Châu Á đã xác lập đây là 'Ngôi chùa có kiến trúc độc đáo nhất Châu Á' bởi thiết kế chỉ dùng một cột trụ duy nhất (đường kính 1,2m) để đỡ toàn bộ tòa Liên Hoa Đài nặng hàng tấn.",
+      "Cây bồ đề xum xuê trong khuôn viên chùa là món quà đặc biệt do Tổng thống Ấn Độ Rajendra Prasad đích thân trao tặng Chủ tịch Hồ Chí Minh năm 1958, được chiết từ cây bồ đề nơi Phật Thích Ca đắc đạo."
+    ],
+    "story": "Tương truyền vua Lý Thái Tông tuổi đã cao mà chưa có con trai nối dõi. Một đêm, vua nằm mộng thấy Phật Bà Quan Âm ngồi trên tòa sen, dắt vua lên và trao cho một đứa bé trai. Sau đó, Hoàng hậu sinh được hoàng tử. Để tạ ơn, vua cho xây dựng ngôi chùa với hình dáng đài sen như trong giấc mộng để thờ Phật Bà.",
+    "highlights": [
+      "Kiến trúc 1 cột trụ",
+      "Liên Hoa Đài",
+      "Cây bồ đề lịch sử"
+    ],
+    "location": "Quận Ba Đình, TP. Hà Nội",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Chùa_Một_Cột"
+  },
+  {
+    "id": "chua_thien_mu_hue",
+    "name_vi": "Chùa Thiên Mụ",
+    "name_en": "Thien Mu Pagoda",
+    "short_intro": "Ngôi 'Quốc tự' lâu đời và nổi tiếng nhất xứ Huế, nằm soi bóng bên dòng sông Hương thơ mộng. Chùa là biểu tượng tâm linh bất diệt, gắn liền với biết bao thăng trầm lịch sử của Cố đô.",
+    "fun_facts": [
+      "Trong khuôn viên chùa hiện đang trưng bày chiếc xe ô tô Austin màu xanh di vật. Đây chính là chiếc xe đã chở Hòa thượng Thích Quảng Đức từ chùa vào Sài Gòn để thực hiện hành động tự thiêu phản đối đàn áp Phật giáo năm 1963.",
+      "Tháp Phước Duyên (biểu tượng của chùa) cao 7 tầng, mỗi tầng thờ một vị Phật khác nhau. Trước đây tháp có tên là Từ Nhân Tháp, sau đó vua Thiệu Trị mới đổi tên như hiện nay.",
+      "Chùa có một quả chuông Đại Hồng Chung đúc năm 1710, nặng hơn 2 tấn. Tiếng chuông Thiên Mụ được ví là 'linh hồn của Huế', vang xa tới 10km, đi vào biết bao thơ ca nhạc họa."
+    ],
+    "story": "Tên gọi 'Thiên Mụ' (Bà mụ nhà trời) xuất phát từ một truyền thuyết: Người dân địa phương thường thấy một bà lão mặc áo đỏ quần lục xuất hiện trên đồi Hà Khê, nói rằng sẽ có một vị Chúa đến đây lập chùa để tụ linh khí, làm bền long mạch. Năm 1601, chúa Nguyễn Hoàng vào trấn thủ Thuận Hóa, nghe chuyện bèn cho xây chùa và đặt tên là Thiên Mụ.",
+    "highlights": [
+      "Tháp Phước Duyên",
+      "Chiếc xe Austin di vật",
+      "Cổng Tam Quan"
+    ],
+    "location": "TP. Huế, Tỉnh Thừa Thiên Huế",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Chùa_Thiên_Mụ"
+  },
+  {
+    "id": "dao_binh_ba",
+    "name_vi": "Đảo Bình Ba",
+    "name_en": "Binh Ba Island",
+    "short_intro": "Hòn đảo hoang sơ nằm chắn gió cho vịnh Cam Ranh, nổi tiếng với biệt danh 'Quốc đảo Tôm Hùm'. Nơi đây hấp dẫn bởi vẻ đẹp bình yên, nước biển trong vắt và hải sản tươi ngon giá rẻ.",
+    "fun_facts": [
+      "Vì nằm trong khu vực quân sự chiến lược quan trọng của Vịnh Cam Ranh, Bình Ba có quy định cực kỳ đặc biệt: Không cho phép người nước ngoài (kể cả Việt kiều) lên đảo tham quan.",
+      "Tôm hùm ở đây được nuôi lồng bè với số lượng cực lớn, thịt ngọt và dai hơn hẳn nơi khác nhờ độ mặn và sạch của nước biển khu vực này. Du khách có thể bắt và nướng tôm ngay tại bè.",
+      "Đảo có 3 bãi biển chính phục vụ du lịch: Bãi Chướng (ngắm bình minh), Bãi Nồm (ngắm hoàng hôn, tắm biển) và Bãi Nhà Cũ (nước trong nhất, ngắm san hô)."
+    ],
+    "story": "Trước đây Bình Ba là đảo rất vắng vẻ, ít người biết đến. Chỉ khi phong trào du lịch bụi phát triển, người ta mới phát hiện ra vẻ đẹp 'Maldives Việt Nam' của nơi này. Tuy nhiên, để đảm bảo an ninh quốc phòng, sự phát triển du lịch tại đây luôn được kiểm soát chặt chẽ và không khuyến khích mở rộng quy mô lớn.",
+    "highlights": [
+      "Thưởng thức Tôm hùm",
+      "Bãi Nồm, Bãi Chướng",
+      "Lặn ngắm san hô"
+    ],
+    "location": "TP. Cam Ranh, Tỉnh Khánh Hòa",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Bình_Ba"
+  },
+  {
+    "id": "dia_dao_cu_chi",
+    "name_vi": "Địa đạo Củ Chi",
+    "name_en": "Cu Chi Tunnels",
+    "short_intro": "Hệ thống phòng thủ ngầm vĩ đại dài hơn 200km trong lòng đất, biểu tượng cho sự kiên cường và sáng tạo của quân dân Việt Nam trong chiến tranh. Nơi đây được báo chí thế giới gọi là 'Mê cung trong lòng đất'.",
+    "fun_facts": [
+      "Hệ thống địa đạo không chỉ là hầm trú ẩn mà là cả một thành phố ngầm với 3 tầng sâu khác nhau, có đầy đủ: bệnh xá, phòng họp, nhà bếp, kho vũ khí, và cả rạp chiếu bóng.",
+      "Bếp Hoàng Cầm - loại bếp dã chiến nổi tiếng được sử dụng tại đây có khả năng tản khói đi là là mặt đất hoặc giấu khói hoàn toàn để tránh máy bay địch phát hiện.",
+      "Lính Mỹ từng đào tạo một lực lượng đặc biệt gọi là 'Tunnel Rats' (Chuột cống) gồm những người lính nhỏ con nhất để chui vào địa đạo săn tìm bộ đội ta, nhưng phần lớn đều thất bại do cạm bẫy chằng chịt."
+    ],
+    "story": "Câu chuyện đào địa đạo là một kỳ tích thủ công: Quân dân Củ Chi đã dùng những chiếc cuốc chim thô sơ và kiên trì đào trong suốt 20 năm (1948-1968). Đất đào lên được bí mật đem đổ xuống sông Sài Gòn hoặc đắp thành nấm mối giả để phi tang, khiến địch không thể ước lượng được quy mô của đường hầm.",
+    "highlights": [
+      "Chui hầm trải nghiệm",
+      "Bếp Hoàng Cầm",
+      "Trường bắn súng thể thao"
+    ],
+    "location": "Huyện Củ Chi, TP. Hồ Chí Minh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Địa_đạo_Củ_Chi"
+  },
+  {
+    "id": "ga_da_lat",
+    "name_vi": "Ga Đà Lạt",
+    "name_en": "Da Lat Railway Station",
+    "short_intro": "Nhà ga xe lửa cổ đẹp nhất Đông Dương còn sót lại, là sự kết hợp độc đáo giữa kiến trúc phương Tây (Art Deco) và kiến trúc nhà rông Tây Nguyên. Đây là nhà ga cao nhất Việt Nam (1.500m).",
+    "fun_facts": [
+      "Tuyến đường sắt Tháp Chàm - Đà Lạt xưa kia là một trong hai tuyến đường sắt duy nhất trên thế giới sử dụng đường ray răng cưa (cog railway) để leo đèo dốc, kỹ thuật này do Thụy Sĩ cung cấp.",
+      "Sau năm 1975, các đầu máy hơi nước chạy răng cưa của Đà Lạt đã được người Thụy Sĩ mua lại trong chiến dịch 'Back to Switzerland' để phục vụ du lịch tại đèo Furka (Thụy Sĩ). Hiện tại ga Đà Lạt chỉ còn chạy đầu máy diesel ngắn phục vụ du khách.",
+      "Hình dáng 3 mái chóp nhọn của nhà ga tượng trưng cho 3 đỉnh núi của dãy Langbiang hùng vĩ."
+    ],
+    "story": "Công trình này được người Pháp xây dựng với tham vọng biến Đà Lạt thành 'Thủ đô mùa hè'. Để hoàn thành tuyến đường sắt răng cưa hiểm trở lên Đà Lạt, hàng nghìn phu phen đã phải bỏ mạng vì rừng thiêng nước độc và tai nạn lao động, khiến nó từng được gọi là con đường của máu và nước mắt.",
+    "highlights": [
+      "Đầu máy hơi nước cổ",
+      "Kiến trúc mái 3 chóp",
+      "Toa tàu gỗ đi Trại Mát"
+    ],
+    "location": "TP. Đà Lạt, Tỉnh Lâm Đồng",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Ga_Đà_Lạt"
+  },
+  {
+    "id": "ho_hoan_kiem",
+    "name_vi": "Hồ Hoàn Kiếm (Hồ Gươm)",
+    "name_en": "Hoan Kiem Lake",
+    "short_intro": "Trái tim của thủ đô Hà Nội, viên ngọc xanh biếc giữa lòng phố cổ. Hồ không chỉ là thắng cảnh thiên nhiên mà còn là không gian văn hóa cộng đồng quan trọng nhất của người Hà Nội.",
+    "fun_facts": [
+      "Hồ từng là nơi sinh sống của loài rùa khổng lồ (Giải Sin-hoe) cực kỳ quý hiếm, người dân tôn kính gọi là 'Cụ Rùa'. Cá thể cuối cùng đã qua đời vào năm 2016 và hiện được tiêu bản trưng bày.",
+      "Nước hồ có màu xanh lục đặc biệt quanh năm do sự phát triển của một loại tảo lục đặc hữu, nên hồ còn có tên cổ là Lục Thủy (Nước Xanh).",
+      "Tháp Bút tại cổng đền Ngọc Sơn được thiết kế sao cho vào đúng giờ Ngọ (12h trưa) ngày Hạ chí, bóng tháp sẽ chấm đúng vào giữa 'Đài Nghiên' bằng đá phía dưới."
+    ],
+    "story": "Truyền thuyết nổi tiếng nhất Việt Nam: Vua Lê Lợi sau khi đánh thắng giặc Minh, một hôm du thuyền trên hồ thì thấy Rùa Vàng nổi lên đòi lại thanh gươm thần (Thuận Thiên Kiếm) mà Long Quân đã cho mượn trước đó. Vua trả gươm, rùa lặn xuống nước. Từ đó hồ Tả Vọng được đổi tên thành hồ Hoàn Kiếm (Trả Gươm).",
+    "highlights": [
+      "Cầu Thê Húc & Đền Ngọc Sơn",
+      "Tháp Rùa",
+      "Tháp Bút - Đài Nghiên"
+    ],
+    "location": "Quận Hoàn Kiếm, TP. Hà Nội",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Hồ_Hoàn_Kiếm"
+  },
+  {
+    "id": "hoang_thanh_thang_long",
+    "name_vi": "Hoàng thành Thăng Long",
+    "name_en": "Imperial Citadel of Thang Long",
+    "short_intro": "Di sản Văn hóa Thế giới minh chứng cho lịch sử 13 thế kỷ liên tục của các triều đại phong kiến Việt Nam. Đây là trung tâm quyền lực tối cao từ thời Lý, Trần, Lê cho đến thời đại Hồ Chí Minh.",
+    "fun_facts": [
+      "Khu di tích khảo cổ 18 Hoàng Diệu phát lộ một điều kỳ diệu: Các lớp di tích kiến trúc của nhiều triều đại nằm chồng xếp lên nhau theo trật tự thời gian (lớp dưới cùng là thời Đại La, lên trên là Lý, Trần, Lê...), hiếm có trên thế giới.",
+      "Bên trong Hoàng thành có hầm D67 và nhà D67 - Tổng hành dinh bí mật của Quân đội Nhân dân Việt Nam, nơi Bộ Chính trị đã đưa ra những quyết định lịch sử trong kháng chiến chống Mỹ.",
+      "Cột cờ Hà Nội (Kỳ đài) xây dựng năm 1812 là công trình hiếm hoi trong khu vực còn nguyên vẹn qua sự tàn phá của thực dân Pháp và chiến tranh."
+    ],
+    "story": "Năm 1010, vua Lý Thái Tổ dời đô từ Hoa Lư về thành Đại La. Tương truyền khi thuyền vua vừa cập bến, có rồng vàng bay lên, vua cho đó là điềm lành nên đổi tên thành là Thăng Long (Rồng bay lên), mở ra kỷ nguyên độc lập và hưng thịnh lâu dài cho dân tộc.",
+    "highlights": [
+      "Đoan Môn",
+      "Điện Kính Thiên",
+      "Khu khảo cổ 18 Hoàng Diệu"
+    ],
+    "location": "Quận Ba Đình, TP. Hà Nội",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Hoàng_thành_Thăng_Long"
+  },
+  {
+    "id": "lang_chu_tich_ho_chi_minh",
+    "name_vi": "Lăng Chủ tịch Hồ Chí Minh",
+    "name_en": "Ho Chi Minh Mausoleum",
+    "short_intro": "Nơi an nghỉ vĩnh hằng của vị lãnh tụ kính yêu, nằm uy nghiêm giữa quảng trường Ba Đình lịch sử. Đây là công trình có ý nghĩa chính trị và tình cảm thiêng liêng nhất đối với người dân Việt Nam.",
+    "fun_facts": [
+      "Vật liệu xây dựng lăng được quy tụ từ khắp mọi miền tổ quốc: Cát lấy từ suối Kim Bôi (Hòa Bình), đá sỏi từ suối Hiền Lương, đá ốp lát từ Thanh Hóa, gỗ quý từ đại ngàn Tây Nguyên...",
+      "Trong di chúc, Bác Hồ mong muốn được hỏa táng (thiêu) để tiết kiệm đất và giữ vệ sinh. Tuy nhiên, theo nguyện vọng tha thiết của nhân dân miền Nam muốn được nhìn thấy Bác ngày thống nhất, Bộ Chính trị đã quyết định giữ gìn thi hài Người.",
+      "Hàng tre ngà trồng hai bên lăng là biểu tượng cho sự kiên cường, dẻo dai và mộc mạc của con người Việt Nam đứng canh giấc ngủ cho Bác."
+    ],
+    "story": "Việc giữ gìn thi hài Bác trong điều kiện chiến tranh ác liệt và khí hậu nhiệt đới nóng ẩm là một kỳ tích khoa học. Các chuyên gia y tế Liên Xô đã bí mật sang giúp đỡ Việt Nam, và thi hài Bác từng phải di chuyển 6 lần để tránh bom đạn Mỹ trước khi chính thức được đưa về Lăng năm 1975.",
+    "highlights": [
+      "Lễ thượng cờ/hạ cờ (6h sáng & 9h tối)",
+      "Thi hài Bác Hồ",
+      "Quảng trường Ba Đình"
+    ],
+    "location": "Quận Ba Đình, TP. Hà Nội",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Lăng_Chủ_tịch_Hồ_Chí_Minh"
+  },
+  {
+    "id": "lang_khai_dinh_hue",
+    "name_vi": "Lăng Khải Định (Ứng Lăng)",
+    "name_en": "Tomb of Khai Dinh",
+    "short_intro": "Công trình lăng tẩm cuối cùng của triều Nguyễn, nổi tiếng với sự phá cách táo bạo, pha trộn giữa kiến trúc Đông - Tây, Kim - Cổ. Đây được đánh giá là đỉnh cao của nghệ thuật tạo hình sành sứ và thủy tinh.",
+    "fun_facts": [
+      "Khác với các lăng tẩm khác dùng gỗ và ngói, Lăng Khải Định được xây dựng chủ yếu bằng bê tông cốt thép, hệ thống điện, cửa sắt, ngói ardoise... nhập khẩu từ Pháp.",
+      "Để có tiền xây lăng nguy nga này, vua Khải Định đã xin chính phủ bảo hộ Pháp cho phép tăng thuế điền lên 30% trên cả nước, gây ra sự oán thán dữ dội trong nhân dân thời bấy giờ.",
+      "Bức bích họa 'Cửu Long Ẩn Vân' trên trần cung Thiên Định được vẽ bằng chân bởi nghệ nhân Phan Văn Tánh, và kỳ lạ là đến nay màu mực vẫn chưa hề phai mờ hay bong tróc."
+    ],
+    "story": "Sinh thời, vua Khải Định bị đánh giá là một ông vua bù nhìn, chuộng ngoại và xa hoa. Lăng tẩm của ông phản ánh đúng tính cách đó: nhỏ hẹp về diện tích nhưng cực kỳ cầu kỳ, tốn kém và 'lòe loẹt' (theo quan điểm đương thời). Tuy nhiên ngày nay, đây lại là công trình kiến trúc độc đáo và hút khách bậc nhất ở Huế.",
+    "highlights": [
+      "Cung Thiên Định",
+      "Bức khảm sành sứ nghệ thuật",
+      "Tượng đồng vua Khải Định (tỷ lệ 1:1)"
+    ],
+    "location": "TP. Huế, Tỉnh Thừa Thiên Huế",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Lăng_Khải_Định"
+  },
+  {
+    "id": "lang_minh_mang_hue",
+    "name_vi": "Lăng Minh Mạng (Hiếu Lăng)",
+    "name_en": "Tomb of Minh Mang",
+    "short_intro": "Lăng tẩm được xem là uy nghiêm và chuẩn mực nhất trong kiến trúc triều Nguyễn. Tổng thể lăng là sự kết hợp hài hòa giữa tài năng kiến trúc của con người và vẻ đẹp thơ mộng của thiên nhiên.",
+    "fun_facts": [
+      "Toàn bộ 40 công trình lớn nhỏ trong lăng đều được bố trí đối xứng trên một trục đường thẳng (trục thần đạo) dài 700m, thể hiện tính cách nghiêm khắc, quy củ của vua Minh Mạng.",
+      "Cổng chính Đại Hồng Môn chỉ được mở đúng một lần duy nhất để đưa quan tài của vua vào lăng, sau đó đóng kín mãi mãi. Người ra vào phải đi qua hai cổng phụ (Tả Hồng Môn và Hữu Hồng Môn).",
+      "Nhìn từ trên cao xuống, hồ Tân Nguyệt ôm lấy Bửu Thành (nơi chôn vua) tạo thành hình dáng của mặt trăng non ôm lấy mặt trời, biểu tượng cho sự trường tồn của vương triều."
+    ],
+    "story": "Vua Minh Mạng là một vị vua văn võ song toàn nhưng rất kỹ tính. Ông đã mất tới 14 năm để tìm chọn địa điểm xây lăng. Khi tìm được núi Cẩm Khê, ông đã đổi tên núi thành Hiếu Sơn và đích thân xem xét, duyệt đồ án thiết kế lăng tẩm của mình tới từng chi tiết nhỏ.",
+    "highlights": [
+      "Lầu Minh Lâu",
+      "Hồ Tân Nguyệt",
+      "Đại Hồng Môn"
+    ],
+    "location": "TP. Huế, Tỉnh Thừa Thiên Huế",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Lăng_Minh_Mạng"
+  },
+  {
+    "id": "mui_ne_doi_cat_bay",
+    "name_vi": "Đồi Cát Bay Mũi Né",
+    "name_en": "Mui Ne Sand Dunes",
+    "short_intro": "Tiểu sa mạc Sahara của Việt Nam với những triền cát mênh mông trải dài tít tắp. Điểm đặc biệt là hình dáng và vân cát thay đổi liên tục theo từng giờ do tác động của gió biển.",
+    "fun_facts": [
+      "Sở dĩ gọi là 'Đồi Cát Bay' vì hình dáng của đồi cát thay đổi liên tục. Chỉ sau một đêm gió thổi, diện mạo của đồi cát sẽ hoàn toàn khác so với ngày hôm trước, không bao giờ lặp lại.",
+      "Cát ở đây được ghi nhận có tới 18 màu sắc khác nhau: vàng, đỏ, hồng, trắng, xám... Các nghệ nhân tranh cát thường đến đây lấy cát về để sáng tạo nên những bức tranh cát nghệ thuật.",
+      "Nhiệt độ cát vào buổi trưa có thể lên rất cao, du khách thường được khuyên nên tham quan vào sáng sớm (ngắm bình minh) hoặc chiều muộn (ngắm hoàng hôn) để tránh bị bỏng chân."
+    ],
+    "story": "Người dân địa phương truyền tai nhau rằng màu đỏ rực của cát ở một số khu vực là do xưa kia đây là nơi rồng lửa phun châu nhả ngọc tạo thành, hoặc lãng mạn hơn là câu chuyện về những giọt máu đào của các chàng trai Chăm Pa chiến đấu bảo vệ xóm làng nhuộm thắm đất đai.",
+    "highlights": [
+      "Trượt cát",
+      "Xe Jeep địa hình",
+      "Chụp ảnh nghệ thuật"
+    ],
+    "location": "TP. Phan Thiết, Tỉnh Bình Thuận",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Mũi_Né"
+  },
+  {
+    "id": "nha_hat_lon_ha_noi",
+    "name_vi": "Nhà hát Lớn Hà Nội",
+    "name_en": "Hanoi Opera House",
+    "short_intro": "Thánh đường nghệ thuật sang trọng bậc nhất thủ đô, được xây dựng theo nguyên mẫu của Nhà hát Opéra Garnier (Paris). Đây là nơi diễn ra các sự kiện văn hóa trọng đại và biểu diễn nghệ thuật hàn lâm.",
+    "fun_facts": [
+      "Để xây dựng nhà hát trên vùng đất đầm lầy (vốn là vũng lầy thuộc hai làng Thạch Tần và Tây Luông), các kỹ sư Pháp đã phải cho đóng tới 35.000 cọc tre xuống dưới để gia cố nền móng trước khi đổ bê tông, một kỹ thuật kết hợp Đông - Tây độc đáo.",
+      "Đây là nơi chứng kiến những giây phút lịch sử đầu tiên của Cách mạng tháng Tám: Ngày 17/8/1945, lá cờ đỏ sao vàng khổng lồ đã được thả từ ban công tầng 2 xuống giữa cuộc mít tinh của quần chúng, mở đầu cho cuộc tổng khởi nghĩa.",
+      "Hệ thống âm thanh và vòm trần bên trong nhà hát được thiết kế cực kỳ tinh vi để đảm bảo tính thính phòng (acoustic) hoàn hảo, giúp âm thanh vang vọng tự nhiên mà không cần quá nhiều thiết bị khuếch đại."
+    ],
+    "story": "Việc xây dựng nhà hát từng vấp phải sự phản đối kịch liệt từ báo chí Pháp thời bấy giờ vì chi phí quá đắt đỏ và thời gian thi công kéo dài tới 10 năm (1901-1911). Có lúc công trình buộc phải tạm dừng vì hết kinh phí. Tuy nhiên, khi hoàn thành, vẻ đẹp tráng lệ của nó đã khiến mọi chỉ trích phải im lặng.",
+    "highlights": [
+      "Khán phòng tráng lệ",
+      "Sảnh chính (Cầu thang T)",
+      "Quảng trường Cách Mạng Tháng 8"
+    ],
+    "location": "Quận Hoàn Kiếm, TP. Hà Nội",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Nhà_hát_Lớn_Hà_Nội"
+  },
+  {
+    "id": "nha_tho_chinh_toa_kon_tum",
+    "name_vi": "Nhà thờ Gỗ Kon Tum",
+    "name_en": "Kon Tum Wooden Church",
+    "short_intro": "Kiệt tác kiến trúc tôn giáo hơn 100 năm tuổi, là sự kết hợp tuyệt vời giữa phong cách Roman cổ điển châu Âu và kiến trúc nhà sàn mái nhọn của đồng bào Ba Na. Nhà thờ đứng sừng sững giữa đại ngàn Tây Nguyên đầy nắng gió.",
+    "fun_facts": [
+      "Toàn bộ nhà thờ được làm từ gỗ sến đỏ (cà chít) - một loại gỗ cực kỳ quý hiếm và bền chắc. Điều đặc biệt là quá trình xây dựng hoàn toàn thủ công, không sử dụng bê tông cốt thép hay vôi vữa, các thợ mộc tài hoa đã dùng mộng gỗ để ghép nối các chi tiết.",
+      "Tường vách của nhà thờ được làm bằng đất trộn với rơm băm nhỏ (kỹ thuật trát vách đất truyền thống), nhưng được xử lý kỹ thuật cao nên đến nay vẫn láng mịn và bền bỉ như tường gạch.",
+      "Bên trong thánh đường, các cửa sổ kính màu (stained glass) vẽ các tích truyện trong Kinh Thánh rực rỡ dưới ánh nắng, tạo nên không gian huyền ảo, linh thiêng pha chút bí ẩn của núi rừng."
+    ],
+    "story": "Linh mục người Pháp Joseph Décrouille là người thiết kế và chỉ đạo xây dựng công trình này (1913-1918). Vì muốn truyền giáo cho người bản địa, ông đã khéo léo đưa văn hóa Ba Na vào kiến trúc nhà thờ để tạo cảm giác gần gũi, biến nơi đây thành ngôi nhà chung cho cả người Kinh và người Thượng.",
+    "highlights": [
+      "Tháp chuông cao vút",
+      "Vật liệu gỗ sến đỏ",
+      "Hoa văn trang trí bản địa"
+    ],
+    "location": "TP. Kon Tum, Tỉnh Kon Tum",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Nhà_thờ_chính_tòa_Kon_Tum"
+  },
+  {
+    "id": "nha_tho_duc_ba_sai_gon_thanh_pho_ho_chi_minh",
+    "name_vi": "Nhà thờ Đức Bà Sài Gòn",
+    "name_en": "Notre Dame Cathedral of Saigon",
+    "short_intro": "Biểu tượng không thể thay thế của TP.Hồ Chí Minh, nằm ngay vị trí đắc địa nhất quận 1. Công trình nổi bật với màu gạch đỏ hồng không phai và hai tháp chuông cao vút vươn lên bầu trời xanh.",
+    "fun_facts": [
+      "Toàn bộ gạch xây nhà thờ đều được đặt hàng và vận chuyển từ Marseille (Pháp) sang. Loại gạch này có đặc tính đặc biệt là không bám bụi rêu, nên dù trải qua hơn trăm năm mưa nắng, bề mặt gạch vẫn giữ được màu sắc hồng tươi như mới.",
+      "Móng của nhà thờ được thiết kế đặc biệt để chịu được tải trọng khổng lồ trên nền đất yếu của Sài Gòn xưa. Người ta ước tính móng có thể chịu được sức nặng của tháp chuông cao hơn nữa nếu được xây thêm.",
+      "Hai tháp chuông hiện tại cao 57,6m, nhưng thực tế bản thiết kế ban đầu còn có hai chóp nhọn bằng kẽm cao thêm nữa nhưng chưa bao giờ được xây dựng."
+    ],
+    "story": "Năm 2005, một sự kiện hy hữu đã xảy ra: Tin đồn tượng Đức Mẹ Hòa Bình trước nhà thờ 'chảy nước mắt' lan truyền chóng mặt, khiến hàng nghìn người hiếu kỳ và giáo dân đổ về vây kín khu vực này suốt nhiều ngày đêm, gây tắc nghẽn giao thông nghiêm trọng, dù sau đó Tòa Tổng giám mục đã xác nhận không có hiện tượng này.",
+    "highlights": [
+      "Hai tháp chuông",
+      "Tượng Đức Mẹ Hòa Bình",
+      "Gạch trần không tô trát"
+    ],
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Nhà_thờ_chính_tòa_Đức_Bà_Sài_Gòn"
+  },
+  {
+    "id": "nha_tho_lon_ha_noi",
+    "name_vi": "Nhà thờ Lớn Hà Nội",
+    "name_en": "St. Joseph's Cathedral",
+    "short_intro": "Nhà thờ chính tòa lâu đời nhất tại Hà Nội, mang đậm phong cách kiến trúc Gothic trung cổ châu Âu với những mái vòm uốn cong hướng lên bầu trời. Đây là điểm check-in quen thuộc của giới trẻ và du khách nước ngoài.",
+    "fun_facts": [
+      "Nhà thờ được thiết kế mô phỏng theo Nhà thờ Đức Bà Paris (Notre Dame de Paris), nhưng có sự giao thoa với văn hóa Việt qua các chi tiết trang trí chạm trổ sơn son thiếp vàng ở khu cung thánh bên trong.",
+      "Đêm Noel năm 1887 là lần đầu tiên lễ Giáng sinh được tổ chức trọng thể tại đây, đánh dấu sự ra đời của một trung tâm tôn giáo lớn tại Bắc Kỳ.",
+      "Khu vực xung quanh nhà thờ nổi tiếng với văn hóa 'Trà chanh Nhà thờ' - một nét sinh hoạt đường phố đặc trưng của giới trẻ Hà Nội, nơi mọi người ngồi ghế nhựa vỉa hè, uống trà chanh và ngắm nhìn vẻ cổ kính của nhà thờ."
+    ],
+    "story": "Vị trí xây dựng Nhà thờ Lớn trước kia chính là nền móng của tháp Báo Thiên - một trong 'An Nam tứ đại khí' (bốn báu vật quốc gia) nổi tiếng thời Lý - Trần. Sự thay đổi từ ngôi chùa tháp vĩ đại sang nhà thờ Gothic phản ánh những biến động to lớn của lịch sử Hà Nội qua các thời kỳ.",
+    "highlights": [
+      "Kiến trúc Gothic",
+      "Cung thánh đường lộng lẫy",
+      "Khu phố trà chanh bao quanh"
+    ],
+    "location": "Quận Hoàn Kiếm, TP. Hà Nội",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Nhà_thờ_Lớn_Hà_Nội"
+  },
+  {
+    "id": "nha_tho_nui_nha_trang",
+    "name_vi": "Nhà thờ Núi Nha Trang",
+    "name_en": "Nha Trang Stone Church",
+    "short_intro": "Ngôi thánh đường bằng đá uy nghiêm tọa lạc trên đỉnh đồi Hoàng Lân, nhìn xuống ngã sáu sầm uất của thành phố biển. Công trình mang vẻ đẹp lãng mạn, cổ điển như một lâu đài phương Tây giữa lòng Nha Trang.",
+    "fun_facts": [
+      "Tên chính thức là Nhà thờ Chánh tòa Kitô Vua, nhưng người dân quen gọi là Nhà thờ Núi (vì ở trên núi) hoặc Nhà thờ Đá (dù thực chất được xây bằng bê tông cốt thép giả đá rất khéo léo).",
+      "Để có mặt bằng xây dựng trên đỉnh núi đá, linh mục Louis Vallet đã phải dùng tới 500 quả mìn để san phẳng phần đỉnh đồi, tạo nên diện tích nền 4.500m2.",
+      "Tháp chuông nhà thờ có treo 3 quả chuông đồng lớn được đúc tại Pháp, nổi tiếng với âm thanh vang rền. Trên tháp còn gắn 4 mặt đồng hồ lớn quay ra 4 hướng, người dân quanh vùng thường nhìn lên đó để xem giờ."
+    ],
+    "story": "Linh mục Louis Vallet (người Pháp) đã dành trọn tâm huyết cuối đời để xây dựng ngôi nhà thờ này cho giáo dân Nha Trang. Ông qua đời không lâu sau khi công trình hoàn thành và được an táng ngay dưới chân núi, lối lên nhà thờ, như một người cha đứng đón con cái về nhà.",
+    "highlights": [
+      "Kiến trúc giả đá lập thể",
+      "Tháp chuông có đồng hồ",
+      "Kính màu rực rỡ"
+    ],
+    "location": "TP. Nha Trang, Tỉnh Khánh Hòa",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Nhà_thờ_chính_tòa_Nha_Trang"
+  },
+  {
+    "id": "pho_co_hoi_an",
+    "name_vi": "Phố cổ Hội An",
+    "name_en": "Hoi An Ancient Town",
+    "short_intro": "Thương cảng quốc tế sầm uất bậc nhất Đông Nam Á thế kỷ 16-17, nay là Di sản Văn hóa Thế giới với vẻ đẹp trầm mặc, cổ kính. Những ngôi nhà mái ngói rêu phong, tường vàng nghệ và đèn lồng rực rỡ là 'đặc sản' của nơi này.",
+    "fun_facts": [
+      "Chùa Cầu (Lai Viễn Kiều) - biểu tượng của Hội An được in trên tờ tiền polymer 20.000 VNĐ. Đây là cây cầu duy nhất ở Việt Nam có một ngôi chùa nằm ở trên, nhưng thờ Bắc Đế Trấn Võ chứ không thờ Phật.",
+      "Hội An là thành phố hiếm hoi ở Việt Nam cấm xe máy lưu thông trong khu vực phố cổ vào các khung giờ cố định, tạo không gian yên tĩnh tuyệt đối cho người đi bộ.",
+      "Đèn lồng Hội An không chỉ để trang trí mà còn là một nghề thủ công truyền thống lâu đời. Vào đêm 14 âm lịch hàng tháng (Đêm phố cổ), toàn bộ thành phố tắt điện, chỉ thắp sáng bằng đèn lồng lung linh."
+    ],
+    "story": "Truyền thuyết về Chùa Cầu kể rằng: Có một con quái vật biển tên là Mamazu (Con Cù) đầu nằm ở Ấn Độ, thân ở Việt Nam và đuôi ở Nhật Bản. Mỗi khi nó cựa mình sẽ gây ra động đất, lũ lụt. Người Nhật đã xây dựng cây cầu này như một thanh kiếm cắm xuống lưng con quái vật để trấn yểm, giữ cho cuộc sống bình yên.",
+    "highlights": [
+      "Chùa Cầu",
+      "Nhà cổ Tấn Ký",
+      "Hội quán Phúc Kiến"
+    ],
+    "location": "TP. Hội An, Tỉnh Quảng Nam",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Hội_An"
+  },
+  {
+    "id": "phong_nha_ke_bang",
+    "name_vi": "Vườn quốc gia Phong Nha - Kẻ Bàng",
+    "name_en": "Phong Nha - Ke Bang National Park",
+    "short_intro": "Di sản thiên nhiên thế giới 2 lần được UNESCO vinh danh, được mệnh danh là 'Vương quốc hang động'. Nơi đây sở hữu hệ thống núi đá vôi cổ nhất châu Á, ẩn chứa những hang động kỳ vĩ nhất hành tinh.",
+    "fun_facts": [
+      "Vườn quốc gia này là nhà của Hang Sơn Đoòng - hang động tự nhiên lớn nhất thế giới, to đến mức có thể chứa vừa cả một tòa nhà cao 40 tầng hoặc một chiếc máy bay Boeing 747 bay lượn bên trong.",
+      "Động Phong Nha nổi tiếng với '7 cái nhất' do Hiệp hội Hang động Hoàng gia Anh bình chọn, trong đó có: Sông ngầm dài nhất, Cửa hang cao và rộng nhất, Hồ nước ngầm đẹp nhất...",
+      "Tên gọi 'Phong Nha' có giả thuyết cho rằng nghĩa là 'Gió luồn qua kẽ răng' (Phong là gió, Nha là răng), mô tả hình ảnh những ngọn núi đá vôi dựng đứng như hàm răng khổng lồ."
+    ],
+    "story": "Năm 2009, thế giới chấn động khi Hiệp hội Hang động Hoàng gia Anh công bố việc thám hiểm thành công hang Sơn Đoòng. Nhưng người có công đầu phát hiện ra cửa hang lại là một người đi rừng địa phương tên là Hồ Khanh. Ông đã tình cờ tìm thấy hang khi tránh mưa vào năm 1991 nhưng sau đó bị lạc và mất dấu, phải mất gần 20 năm sau mới tìm lại được để dẫn đoàn thám hiểm vào.",
+    "highlights": [
+      "Động Phong Nha",
+      "Động Thiên Đường",
+      "Hang Sơn Đoòng"
+    ],
+    "location": "Huyện Bố Trạch, Tỉnh Quảng Bình",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Vườn_quốc_gia_Phong_Nha_-_Kẻ_Bàng"
+  },
+  {
+    "id": "quan_the_danh_thang_trang_an",
+    "name_vi": "Quần thể danh thắng Tràng An",
+    "name_en": "Trang An Landscape Complex",
+    "short_intro": "Di sản hỗn hợp Văn hóa và Thiên nhiên duy nhất tại Đông Nam Á. Tràng An được ví như 'Vịnh Hạ Long trên cạn' với hàng nghìn ngọn núi đá vôi dựng đứng trên mặt nước, tạo thành những thung lũng ngập nước thông nhau qua các hang động.",
+    "fun_facts": [
+      "Hệ thống hang động ở Tràng An là dạng 'hang xuyên thủy', tức là hang thông từ thung lũng này sang thung lũng khác. Du khách ngồi thuyền sẽ được trải nghiệm cảm giác cúi thấp người chui qua các hang đá dài hàng trăm mét.",
+      "Đây là phim trường chính của bom tấn Hollywood 'Kong: Skull Island' (2017). Vẻ đẹp hoang sơ, bí ẩn của Tràng An đã chinh phục hàng triệu khán giả quốc tế.",
+      "Các nhà khảo cổ đã tìm thấy dấu tích của người tiền sử sống tại đây cách đây 30.000 năm, chứng minh sự thích ứng của con người trước biến đổi khí hậu biển tiến - biển lùi."
+    ],
+    "story": "Vùng đất này gắn liền với Hành cung Vũ Lâm thời nhà Trần. Sau khi chiến thắng quân Nguyên Mông lần thứ nhất, các vua Trần đã lui về đây xây dựng căn cứ địa để củng cố lực lượng. Đây cũng là nơi vua Trần Nhân Tông xuất gia tu hành lần đầu tiên trước khi lên núi Yên Tử sáng lập Thiền phái Trúc Lâm.",
+    "highlights": [
+      "Du lịch thuyền đò qua hang",
+      "Đền Trần",
+      "Phim trường Kong (đã phục dựng)"
+    ],
+    "location": "Huyện Hoa Lư, Tỉnh Ninh Bình",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Quần_thể_danh_thắng_Tràng_An"
+  },
+  {
+    "id": "tam_coc_ninh_binh",
+    "name_vi": "Tam Cốc - Bích Động",
+    "name_en": "Tam Coc - Bich Dong",
+    "short_intro": "Khu du lịch nổi tiếng với trải nghiệm ngồi thuyền nan trôi nhẹ trên dòng sông Ngô Đồng, hai bên là cánh đồng lúa vàng óng ả kẹp giữa những dãy núi đá vôi hùng vĩ.",
+    "fun_facts": [
+      "Người chèo đò tại Tam Cốc có kỹ năng đặc biệt: Chèo bằng chân. Họ ngả lưng ra sau và dùng hai chân điều khiển mái chèo một cách điệu nghệ, giúp đỡ mỏi tay trên quãng đường dài.",
+      "Vẻ đẹp của Tam Cốc thay đổi theo mùa lúa: Tháng 1-2 lúa non xanh mướt, đẹp nhất là cuối tháng 5 đầu tháng 6 khi lúa chín vàng rực rỡ tạo nên bức tranh màu sắc tuyệt đẹp.",
+      "Chùa Bích Động gần đó được chúa Trịnh Sâm mệnh danh là 'Nam Thiên Đệ Nhị Động' (Động đẹp thứ nhì trời Nam, chỉ sau động Hương Tích)."
+    ],
+    "story": "Tương truyền vào thế kỷ 13, nhà Trần đã chọn vùng đất này để xây dựng căn cứ địa chống quân Nguyên Mông lần thứ 2. Địa thế hiểm trở 'tiền thủy, hậu sơn' của Tam Cốc rất thuận lợi cho việc phòng thủ và rút lui chiến lược.",
+    "highlights": [
+      "Thuyền trên sông Ngô Đồng",
+      "Mùa lúa chín",
+      "Chùa Bích Động"
+    ],
+    "location": "Huyện Hoa Lư, Tỉnh Ninh Bình",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Khu_du_lịch_Tam_Cốc_-_Bích_Động"
+  },
+  {
+    "id": "thac_ban_gioc_cao_bang",
+    "name_vi": "Thác Bản Giốc",
+    "name_en": "Ban Gioc Waterfall",
+    "short_intro": "Thác nước hùng vĩ nhất Việt Nam và là thác nước nằm trên đường biên giới lớn thứ 4 thế giới. Dòng thác cuồn cuộn đổ xuống qua nhiều tầng đá, bọt tung trắng xóa giữa núi rừng Đông Bắc.",
+    "fun_facts": [
+      "Thác Bản Giốc được chia thành 2 phần: Thác chính (rộng, nhiều tầng) nằm trên biên giới Việt - Trung (mỗi bên một nửa), và thác phụ (cao hơn) nằm hoàn toàn trong lãnh thổ Việt Nam.",
+      "Mùa đẹp nhất để ngắm thác là tháng 9 và tháng 10, khi nước trong xanh ngọc bích và những cánh đồng lúa chín vàng dưới chân thác tạo nên khung cảnh như tiên giới.",
+      "Du khách có thể đi bè mảng ra giữa sông Quây Sơn để đến gần chân thác, chạm tay vào cột mốc biên giới thiêng liêng."
+    ],
+    "story": "Người Tày nơi đây kể câu chuyện tình buồn về thác: Xưa có người con gái đẹp tuyệt trần được tiến cung nhưng nàng liều mình trốn đi cùng người yêu. Họ chạy đến đây thì kiệt sức và hóa thành dòng thác. Những giọt nước mắt chia ly tạo thành dòng nước trắng xóa, chia cắt đôi bờ.",
+    "highlights": [
+      "Thác chính nhiều tầng",
+      "Cột mốc biên giới 836",
+      "Sông Quây Sơn"
+    ],
+    "location": "Huyện Trùng Khánh, Tỉnh Cao Bằng",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Thác_Bản_Giốc"
+  },
+  {
+    "id": "thanh_dia_my_son",
+    "name_vi": "Thánh địa Mỹ Sơn",
+    "name_en": "My Son Sanctuary",
+    "short_intro": "Một tiểu vũ trụ thu nhỏ của thần linh Chăm Pa ẩn mình trong thung lũng kín đáo, được bao bọc bởi vòng cung núi đồi thâm nghiêm. Đây là quần thể di tích đền tháp Chăm Pa cổ và quy mô nhất Việt Nam.",
+    "fun_facts": [
+      "Kỹ thuật xây dựng các tháp Chăm vẫn là một bí ẩn lớn đối với khoa học hiện đại: Người Chăm xưa đã mài phẳng các viên gạch nung non rồi xếp khít lên nhau mà không cần vôi vữa hay chất kết dính nhìn thấy được (như xi măng), nhưng chúng vẫn đứng vững hàng nghìn năm.",
+      "Khác với các công trình khác, Thánh địa Mỹ Sơn không phải là nơi để người dân đến cúng bái thường xuyên hay an táng vua chúa, mà là nơi tổ chức các nghi lễ tẩy rửa và dâng cúng thần linh của riêng tầng lớp hoàng gia, tu sĩ Chăm Pa.",
+      "Trong chiến tranh, Mỹ Sơn từng bị bom đạn tàn phá nặng nề. Từ hơn 70 công trình đền tháp ban đầu, hiện nay chỉ còn lại khoảng 20 công trình giữ được hình hài tương đối nguyên vẹn."
+    ],
+    "story": "Khu di tích này đã bị lãng quên trong rừng rậm nhiệt đới suốt nhiều thế kỷ sau khi vương triều Chăm Pa suy tàn. Mãi đến năm 1885, một nhóm lính Pháp tình cờ phát hiện ra vẻ đẹp hoang tàn nhưng kỳ vĩ này. Các nhà khảo cổ Pháp sau đó đã gọi đây là 'Thung lũng của các vị thần'.",
+    "highlights": [
+      "Tháp K (Tháp Cổng)",
+      "Điệu múa Apsara",
+      "Khu tháp B, C, D"
+    ],
+    "location": "Huyện Duy Xuyên, Tỉnh Quảng Nam",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Thánh_địa_Mỹ_Sơn"
+  },
+  {
+    "id": "thap_ba_ponagar",
+    "name_vi": "Tháp Bà Ponagar",
+    "name_en": "Ponagar Tower",
+    "short_intro": "Quần thể kiến trúc Chăm Pa lớn nhất còn lại ở miền Trung, nằm uy nghi trên đồi Cù Lao cạnh cửa sông Cái. Đây là minh chứng rực rỡ cho thời kỳ hưng thịnh của đạo Hindu tại vương quốc Chăm xưa.",
+    "fun_facts": [
+      "Tháp chính thờ Nữ thần Ponagar (cao khoảng 23m) là một trong những tháp Chăm cao nhất hiện nay. Bên trong tháp có tượng nữ thần bằng đá hoa cương màu đen ngồi trên đài sen, lưng tựa phiến đá lớn hình lá bồ đề.",
+      "Dù là công trình của người Chăm, nhưng hiện nay người Việt và người Hoa cũng đến cúng bái rất đông, tạo nên sự giao thoa văn hóa tín ngưỡng độc đáo. Người Việt tôn xưng thần Ponagar là Thiên Y Ana Thánh Mẫu.",
+      "Tượng nữ thần ban đầu không có y phục (theo văn hóa Chăm phô diễn vẻ đẹp hình thể), nhưng sau này người Việt vì sự tôn kính kín đáo đã may mũ áo xiêm y lộng lẫy để khoác lên tượng Bà."
+    ],
+    "story": "Truyền thuyết kể rằng Nữ thần Ponagar được sinh ra từ bọt biển và mây trời. Bà là người đã dạy dân chúng cách cày cấy, dệt vải và chăn nuôi, giúp cuộc sống ấm no. Vì thế, bà được tôn vinh là Bà Mẹ Xứ Sở (Po Ino Nagar) và được thờ phụng đời đời.",
+    "highlights": [
+      "Tháp chính (Dinh Bà)",
+      "Khu Mandapa (nhà tiền tế)",
+      "Múa Chăm và nghề dệt thổ cẩm"
+    ],
+    "location": "TP. Nha Trang, Tỉnh Khánh Hòa",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Tháp_Bà_Po_Nagar"
+  },
+  {
+    "id": "thung_lung_bac_son",
+    "name_vi": "Thung lũng Bắc Sơn",
+    "name_en": "Bac Son Valley",
+    "short_intro": "Bức tranh thủy mặc khổng lồ của vùng Đông Bắc, nơi những dãy núi đá vôi trập trùng ôm trọn cánh đồng lúa mênh mông và dòng sông uốn lượn. Đây là điểm đến thiên đường cho các nhiếp ảnh gia săn ảnh mùa lúa chín.",
+    "fun_facts": [
+      "Điểm đặc biệt nhất của lúa Bắc Sơn là nông dân không gieo trồng cùng một lúc. Do đó, trong cùng một vụ mùa, ruộng này đang chín vàng thì ruộng bên cạnh vẫn còn xanh, tạo nên những mảng màu đan xen tuyệt đẹp như tấm thổ cẩm khổng lồ.",
+      "Để ngắm trọn vẹn thung lũng, du khách phải leo khoảng 1.200 bậc đá để lên đỉnh núi Nà Lay. Đây là trạm phát sóng vi ba nhưng cũng là đài quan sát tự nhiên đẹp nhất khu vực.",
+      "Bắc Sơn còn là cái nôi của văn hóa người Tày với những nếp nhà sàn truyền thống mái ngói âm dương quay về hướng Nam để đón gió mát."
+    ],
+    "story": "Vùng đất này không chỉ đẹp mà còn hào hùng. Đây là căn cứ địa của cuộc Khởi nghĩa Bắc Sơn (1940) nổi tiếng trong lịch sử cách mạng Việt Nam. Những hang động núi đá vôi thơ mộng kia xưa kia từng là nơi trú ẩn và kho vũ khí bí mật của du kích quân.",
+    "highlights": [
+      "Đỉnh núi Nà Lay",
+      "Mùa lúa chín (tháng 7, tháng 10)",
+      "Làng văn hóa Quỳnh Sơn"
+    ],
+    "location": "Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Bắc_Sơn_(huyện)"
+  },
+  {
+    "id": "viet_nam_quoc_tu",
+    "name_vi": "Việt Nam Quốc Tự",
+    "name_en": "Viet Nam Quoc Tu Pagoda",
+    "short_intro": "Trụ sở mới khang trang và bề thế của Giáo hội Phật giáo Việt Nam tại TP.HCM. Ngôi chùa nổi bật với tòa tháp cao sừng sững, là biểu tượng cho sự thống nhất và phát triển của Phật giáo Việt Nam hiện đại.",
+    "fun_facts": [
+      "Bảo tháp trong chùa có 13 tầng, cao 63m. Con số 13 và 63 mang ý nghĩa lịch sử sâu sắc: Tưởng niệm cuộc vận động thống nhất Phật giáo năm 1963 và 13 vị tu sĩ đã tự thiêu để bảo vệ đạo pháp trong giai đoạn đó.",
+      "Chùa sở hữu quả chuông đồng nặng khoảng 3 tấn, cao 2,9m. Đây là một trong những quả chuông lớn nhất Việt Nam được đúc ngay tại chỗ bởi các nghệ nhân làng đúc đồng Huế.",
+      "Tại đây có tháp lưu giữ xá lợi 'Trái tim bất diệt' của Bồ tát Thích Quảng Đức (bản sao hoặc nơi tôn thờ trang trọng), nhắc nhở về sự hy sinh cao cả của Ngài."
+    ],
+    "story": "Khu đất xây dựng chùa ban đầu rất rộng lớn, nhưng sau năm 1975 bị thu hẹp lại để xây dựng các công trình giải trí (nhà hát Hòa Bình, KDL Kỳ Hòa). Phải đến năm 2014, chùa mới được cấp phép xây dựng lại quy mô lớn như hiện nay, đánh dấu sự hồi sinh của một công trình từng bị dang dở suốt hơn nửa thế kỷ.",
+    "highlights": [
+      "Bảo tháp 13 tầng",
+      "Quả chuông đồng lớn",
+      "Chánh điện hiện đại"
+    ],
+    "location": "Quận 10, TP. Hồ Chí Minh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Việt_Nam_Quốc_Tự"
+  },
+  {
+    "id": "vinh_ha_long",
+    "name_vi": "Vịnh Hạ Long",
+    "name_en": "Ha Long Bay",
+    "short_intro": "Kỳ quan thiên nhiên thế giới được UNESCO hai lần công nhận, nổi tiếng toàn cầu với hàng nghìn đảo đá vôi muôn hình vạn trạng nhấp nhô trên mặt nước xanh ngọc bích. Đây là điểm đến 'phải đi một lần trong đời' tại Việt Nam.",
+    "fun_facts": [
+      "Vịnh có gần 2.000 hòn đảo lớn nhỏ, nhưng chỉ có khoảng 40 đảo là có người dân sinh sống. Phần lớn còn lại là đảo đá vôi hoang sơ, chưa có dấu chân người.",
+      "Năm 2011, Vịnh Hạ Long vượt qua hàng trăm danh thắng khác để lọt vào Top 7 Kỳ quan Thiên nhiên Mới của Thế giới (New7Wonders).",
+      "Tại đây có những làng chài nổi (như Cửa Vạn) nơi trẻ em biết bơi và chèo thuyền trước khi biết chữ, cả cuộc đời gắn liền với biển cả mà hiếm khi lên bờ."
+    ],
+    "story": "Tên gọi 'Hạ Long' (Rồng đáp xuống) bắt nguồn từ truyền thuyết: Thuở xưa khi giặc ngoại xâm tấn công, Ngọc Hoàng sai Rồng Mẹ và đàn Rồng Con xuống giúp dân đánh giặc. Rồng phun ra vô số châu ngọc, biến thành ngàn đảo đá chặn đứng thuyền giặc. Giặc tan, Rồng Mẹ không về trời mà ở lại hạ giới, nơi đó gọi là Hạ Long.",
+    "highlights": [
+      "Du thuyền ngủ đêm trên vịnh",
+      "Hang Sửng Sốt",
+      "Đảo Ti Tốp"
+    ],
+    "location": "TP. Hạ Long, Tỉnh Quảng Ninh",
+    "wiki_url": "https://vi.wikipedia.org/wiki/Vịnh_Hạ_Long"
+  }
+]
